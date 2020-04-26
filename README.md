@@ -1,2 +1,2 @@
-# CollisionAlgorithm
-Collision Algorithm in Visual Code Studio.
+# collisionAlgorithm
+Algorithm to detect collision between two objects
